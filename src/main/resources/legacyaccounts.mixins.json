@@ -3,7 +3,8 @@
 	"package": "io.github.redrain0o0.legacyaccounts.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"TitleScreenMixin"
+		"TitleScreenMixin",
+		"ScreenMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
